@@ -17,7 +17,7 @@ function App() {
                     <Route path='/dashboard' element={<Dashboard />} />
                     <Route path='about' element={<About />} />
                     <Route path='form' element={<Form />} />
-                    {/* <Route path='dynamicform'element={<Dynamicform/>}/> */}
+                 
 
                 </Route>
             </Routes>
